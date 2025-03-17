@@ -1,5 +1,5 @@
-word = str(input("enter a word: "))
+statement = str(input("enter a statement: "))
 
-revword = word[ : :-1]
-word = revword
-print(word)
+revstatement = statement[ : :-1]
+statement = revstatement
+print(statement)
